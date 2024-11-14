@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.1.5",
+    "@primevue/themes": "^4.0.5",
+    "@tailwindcss/forms": "^0.5.9",
+    "@twilio/conversations": "^2.6.0",
+    "axios": "^1.7.7",
+    "firebase": "^10.13.1",
+    "frontend": "file:",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.0.5",
+    "tailwindcss-primeui": "^0.3.4",
+    "twilio": "^5.3.3",
+    "vue": "^3.4.37",
+    "vue-flip": "^3.0.2",
+    "vue-router": "^4.4.3",
+    "vuetify": "^3.7.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.12",
+    "vite": "^5.4.1"
+  }
+}

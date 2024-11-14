@@ -1,0 +1,11 @@
+#ignore node modules
+Backend/node_modules/
+Frontend/node_modules/
+
+#ignore secret Key
+Backend/wad2-g4-t15-firebase-adminsdk-nzvns-9666048a75.json
+Backend/.env
+Frontend/.env
+
+Backend/.DS_Store/
+.DS_Store
