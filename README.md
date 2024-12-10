@@ -21,7 +21,7 @@ Install NeverAlone with npm <br>
 ```
 2. Open another terminal and run the following command:
 ```bash
-  cd Frontned
+  cd Frontend
   npm i
   npm run dev
 ```
